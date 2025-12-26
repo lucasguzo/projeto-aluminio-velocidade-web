@@ -1,0 +1,5 @@
+# Ignorar pastas de compilação do Arduino
+build/
+bin/
+layout/
+
